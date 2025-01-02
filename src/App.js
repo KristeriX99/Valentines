@@ -14,7 +14,7 @@ const App = () => {
   // State to track acceptance and rejection
   const [accepted, setAccepted] = useState(false);
   const [rejected, setRejected] = useState(false);
-  const [noButtonText, setNoButtonText] = useState("No");
+  const [noButtonText, setNoButtonText] = useState("Nē");
   const [lastRejectedIndex, setLastRejectedIndex] = useState(-1);
 
   // Handler for accepting the proposal
