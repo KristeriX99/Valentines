@@ -27,10 +27,10 @@ const App = () => {
     setRejected(true);
     // Array of rejection messages
     const rejectionTexts = [
-      "Are you sure?",
-      "Maybe try again?",
-      "Think again!",
-      "Loser :(",
+      "Tieeeeešaaaaam?",
+      "Tu netrāpīji uz Jā pogas?",
+      "Nu nevar būt!",
+      "Smieklīgi",
     ];
     // Randomly select a rejection message
     let randomIndex;
